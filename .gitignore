@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# large AM3 output or downloaded data you don't want in git:
+# data/*.fits
